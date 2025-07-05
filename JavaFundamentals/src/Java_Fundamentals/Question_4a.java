@@ -1,6 +1,6 @@
+package Java_Fundamentals;
 import java.util.Scanner;
-
-public class Question_4_A {
+public class Question_4a {
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     int num=sc.nextInt();

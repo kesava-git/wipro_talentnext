@@ -1,3 +1,4 @@
+package Java_Fundamentals;
 import java.util.Scanner;
 public class Question_16 {
   public static void main(String[] args) {

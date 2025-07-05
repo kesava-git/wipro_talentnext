@@ -1,3 +1,4 @@
+package Java_Fundamentals;
 import java.util.Scanner;
 public class Question_18 {
   public static void main(String[] args) {
@@ -34,4 +35,4 @@ public class Question_18 {
       //   i++;
       // }
     }
-  }
+}
