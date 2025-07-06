@@ -1,5 +1,4 @@
 package Java_Fundamentals;
-
 public class Question_31 {
 	public static void main(String[] args) {
 		int[] arr= {1,4,5,1,4};
@@ -16,3 +15,4 @@ public class Question_31 {
 		}
 	}
 }
+
